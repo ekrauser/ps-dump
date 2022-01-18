@@ -1,0 +1,11 @@
+Name,Datastore,Template,Cluster,Customize,IP,Subnet,Gateway
+k8s-alb1,Hyper5-NVME1,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.198,255.255.255.0,192.168.1.1
+k8s-ctl0,Hyper5-NVME1,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.200,255.255.255.0,192.168.1.1
+k8s-ctl1,Hyper5-NVME2,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.201,255.255.255.0,192.168.1.1
+k8s-ctl2,Hyper5-NVME1,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.202,255.255.255.0,192.168.1.1
+k8s-wrk0,Hyper5-NVME1,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.203,255.255.255.0,192.168.1.1
+k8s-wrk1,Hyper5-NVME1,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.204,255.255.255.0,192.168.1.1
+k8s-wrk2,Hyper5-NVME1,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.205,255.255.255.0,192.168.1.1
+k8s-wrk3,Hyper5-NVME2,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.206,255.255.255.0,192.168.1.1
+k8s-wrk4,Hyper5-NVME2,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.207,255.255.255.0,192.168.1.1
+k8s-wrk5,Hyper5-NVME2,ubuntuSrv-20,K8s-Prime,ubuntu20-k8s,192.168.1.208,255.255.255.0,192.168.1.1
